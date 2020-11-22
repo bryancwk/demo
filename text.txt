@@ -1,0 +1,6 @@
+Hello world this is a test document
+type "i" to change to insert mode
+type new text
+type esc to go back to command mode
+type ":wq" and enter to write the file and quit.
+
